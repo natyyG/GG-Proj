@@ -1,0 +1,108 @@
+.adminlayout{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.AddBtn{
+    width:100px;
+    height:40px;
+    border-radius:16px;
+    background-color: rgb(38, 155, 38);
+    color:white;
+    border:none;
+    cursor: pointer;
+    margin-left:30px;
+}
+.AddBtn:hover{
+    opacity: .7;
+}
+.formcont{
+    
+    background-color: #07032c;
+    height:300px;
+    width:100%;
+    align-items: center;
+    padding-left: 10px;
+    justify-content: center;
+    padding-top:30px;
+    margin-bottom:50px;
+}
+.field{
+    width: 200px;
+    height: 30px;
+    padding-left: 10px;
+    border-radius: 16px;
+}
+.formcont form{
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.formdescrip{
+    width: 200px;
+    height: 160px;
+    border-radius: 16px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.formbtn{
+    width: 100px;
+    height: 35px;
+    border-radius: 16px;
+    border: none;
+    background-color: #31cf31;
+    color: white;
+    cursor: pointer;
+    margin-top:10px;
+    margin-bottom:30px;
+    
+}
+.formbtn:hover{
+    opacity:.7;
+}
+.eventdesign{
+    color:rgb(177, 174, 174);
+    margin-bottom:20px;
+    padding-bottom: 40px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 30px;
+    margin:14px;
+    width: 500px;
+    background-color: #02022e;
+    text-align: center;
+    
+}
+.eventdesign h1{
+    padding-top: 26px;
+    padding-bottom: 21px;
+}
+.desclist {
+    
+    padding-left: 21px;
+    padding-right: 21px;
+}
+.deleteBtn{
+    margin-top:20px;
+    width:100px;
+    height:40px;
+    border-radius: 16px;
+    border:none;
+    color:white;
+    cursor: pointer;
+    background-color: rgb(199, 35, 35);
+}
+.deleteBtn:hover{
+    opacity: .8;
+}
+.datetitle{
+    color:rgb(184, 177, 177);
+    text-align: center;
+    margin-bottom:20px;
+    margin-top:20px;
+}
+.componentlayout{
+    width:10px;
+}

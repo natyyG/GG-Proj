@@ -1,0 +1,19 @@
+.eventdaydesign{
+    width: 78%;
+    height: -moz-fit-content;
+    height: fit-content;
+    margin-top: 33px;
+    border-top-right-radius: 174px;
+    border-bottom-left-radius: 127px;
+    padding: 20px;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #030332;
+    color: #9d9d9d;
+    padding-bottom: 69px;
+}
+.eventdaydesign h1{
+    text-align: center;
+    margin-bottom: 29px;
+}

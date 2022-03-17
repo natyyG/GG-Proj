@@ -1,0 +1,51 @@
+@media(min-width:770px){
+    .flex{
+        display:flex;
+    }
+}
+@media(min-width:1500px){
+    .container{
+        background-color: #131030;
+        width:80%;
+        margin:auto;
+    }
+}
+@media(max-width:770px){
+    .containintro{
+        margin-top:1px;
+    }
+    .role{
+        flex-direction: column;
+    }
+    .other{
+        width:auto;
+        padding-top:26px;
+    }
+    .other button{
+        margin-top:20px;
+    }
+    .mission{
+        width:auto;
+    }
+    .eventcont{
+        flex-direction: column;
+        height: 891px;
+        padding: 24px 0px;
+    }
+    .event{
+        margin-top:20px;
+        width:75%;
+    }
+    .more{
+        flex-direction: column;
+    }
+    .upcoming{
+        width:auto;
+        margin-right: 46px;
+    }
+    .upcoming{
+        margin-bottom: 45px;
+        margin-top:45px;
+        
+    }
+}

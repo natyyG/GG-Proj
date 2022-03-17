@@ -1,0 +1,17 @@
+body{
+    width:100%;
+    height:100vh;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.aboutCont{
+    background-color: rgb(23, 23, 58);
+    width:60%;
+    margin-right:auto;
+    margin-left:auto;
+    padding:30px;
+    border-radius: 21px;
+    color:rgb(179, 177, 177);
+    margin-top:70px;
+}
